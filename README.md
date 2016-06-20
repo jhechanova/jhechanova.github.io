@@ -3,15 +3,14 @@ open source resume(html+js+css)
 
 <h4><a href="http://51lxui.com/resume/" target="_blank">demo</a></h4>
 
-<h2>开源简历（open source resume）</h2>
-自己应聘做了一个简历,喜欢的可以去改成自己；
-code写的也不够标准，有兴趣的可以协助修改下。
+<h2>Biography open source（open source resume）</h2>
+Candidates themselves made a resume, like you can go into your own; code is not enough to write standards, are interested can modify the assistance.
 
-一些特色：
+Some Features：
 <ul>
-  <li>响应式布局</li>
-  <li>局部打印</li>
-  <li>语音操作</li>
+  <li>Responsive layout</li>
+  <li>Local Print</li>
+  <li>Voice Actions</li>
 </ul>
 
 
