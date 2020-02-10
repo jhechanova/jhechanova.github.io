@@ -120,8 +120,8 @@ i { font-size: 16px; }
 .info_content ul li { list-style: none; overflow: hidden; position: relative; }
 .info_content ul li h3 { font-size: 12px; color: #333; line-height: 25px; }
 .info_content ul li:hover h3 { color: #109d59; }
-.info_content ul li h3 i { float: left; margin-right: 10px;  }
-.info_content ul li:hover h3 i { color: #109d59; }
+.info_content ul li h3 > i { float: left; margin-right: 10px;  }
+.info_content ul li:hover h3 > i { color: #109d59; }
 .info_content ul li h3 em { color: #999; padding-left: 10px; }
 .info_content ul li p { padding-left: 26px; color: #999; }
 .info_content ul li p i { margin-left: 5px; }
