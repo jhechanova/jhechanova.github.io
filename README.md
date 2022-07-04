@@ -11,6 +11,7 @@ Some Features：
   <li>Responsive layout</li>
   <li>Local Print</li>
   <li>Voice Actions</li>
+    <li>Voice Actions</li>
 </ul>
 
 
