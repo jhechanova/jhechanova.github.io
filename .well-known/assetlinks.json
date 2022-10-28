@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brunoforce.app",
+      "sha256_cert_fingerprints": [
+        "DA:13:E6:C4:5F:99:6F:1B:3F:9F:9B:FF:FD:24:9C:D8:90:B9:A5:97:9C:77:FC:52:2A:85:9B:2B:48:C2:91:4A"
+      ]
+    }
+  }
+]
